@@ -19,7 +19,7 @@ Menggunakan perulangan `for` untuk menampilkan nomor urut barang dari 1 sampai 1
 
 **Hasil Program:**
 
-![Screenshot Latihan 1](latihan1.png)
+![Screenshot Latihan1](latihan1.png)
 
 ## Latihan 2 – Simulasi Stok
 
