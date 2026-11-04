@@ -70,9 +70,4 @@ Memindahkan perulangan penampil barang ke dalam method `tampilkanDaftarBarang(St
 
 ---
 
-### Informasi Praktikum
 
-- **Bahasa Pemrograman:** Java
-- **IDE:** NetBeans
-- **Mata Kuliah:** Dasar Pemrograman
-- **Materi:** Perulangan dan Method
